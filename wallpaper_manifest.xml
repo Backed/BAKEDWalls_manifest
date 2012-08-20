@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
-    <category name="BAKED">
+    <category id="main" name="BAKED">
         <wallpaper
             url="https://dl.dropbox.com/u/11899516/wallpaper/bakedwall1.jpg"
             name="baked 1"  />
