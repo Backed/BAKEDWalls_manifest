@@ -8,6 +8,10 @@
             url="http://bakedrom.backupuser.com/wallpapers/baked5.png" />
 
         <wallpaper
+            author="B-Boytm"
+            url="http://bakedrom.backupuser.com/wallpapers/baked4.png" />
+
+        <wallpaper
             author="travp624"
             url="http://bakedrom.backupuser.com/wallpapers/baked_blue_glow.png" />
 
@@ -83,6 +87,24 @@
             author="Rickerbilly"
             url="http://bakedrom.backupuser.com/wallpapers/teambaked7.png" />
 
+        <wallpaper
+            author="Wad3"
+            url="http://bakedrom.backupuser.com/wallpapers/teambaked9.png" />
+
     </category>
+
+    <category name="Random"
+
+        <wallpaper
+            author="travp624/augie757"
+            url="http://bakedrom.backupuser.com/wallpapers/nexus_lines.png" />
+
+        <wallpaper
+            author="travp624/augie757"
+            url="http://bakedrom.backupuser.com/wallpapers/rootz_lines.png" />
+
+        <wallpaper
+            author="travp624/augie757"
+            url="http://bakedrom.backupuser.com/wallpapers/falling_in.png" />
 
 </wallpapers>
