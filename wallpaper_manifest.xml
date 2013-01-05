@@ -57,7 +57,7 @@
 
     </category>
 
-    <category name="New" >
+    <category name="Random">
 
         <wallpaper
             author="Rickerbilly"
@@ -91,10 +91,6 @@
             author="Wad3"
             url="http://bakedrom.backupuser.com/wallpapers/teambaked9.png" />
 
-    </category>
-
-    <category name="Random">
-
         <wallpaper
             author="travp624/augie757"
             url="http://bakedrom.backupuser.com/wallpapers/falling_in.png" />
@@ -122,6 +118,18 @@
         <wallpaper
             author="augie757"
             url="http://bakedrom.backupuser.com/wallpapers/augie_4.png" />
+
+    </category>
+
+    <category name="Baked reborn">
+
+        <wallpaper
+            author="ebs512"
+            url="http://bakedrom.backupuser.com/wallpapers/baked_on_fire.png" />
+
+        <wallpaper
+            author="ebs512"
+            url="http://bakedrom.backupuser.com/wallpapers/baked_reborn.png" />
 
     </category>
 
